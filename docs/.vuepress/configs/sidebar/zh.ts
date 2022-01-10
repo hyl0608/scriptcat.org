@@ -26,4 +26,22 @@ export const zh: SidebarConfig = {
       ],
     },
   ],
+  "/change/": [
+    {
+      isGroup: true,
+      text: "更新日志",
+      children:[
+        "/change/README.md"
+      ]
+    }
+  ],
+  "/privacy/": [
+    {
+      isGroup: true,
+      text: "隐私协议",
+      children:[
+        "/privacy/README.md"
+      ]
+    }
+  ]
 };

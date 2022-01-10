@@ -15,6 +15,10 @@ export const zh: NavbarConfig = [
     link: "/change/",
   },
   {
+    text: "隐私协议",
+    link: "/privacy/"
+  },
+  {
     text: "关于我们",
     link: "/about/",
   },
