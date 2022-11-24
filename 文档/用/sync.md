@@ -1,6 +1,6 @@
----
+---1
 id: sync
----
+---1
 
 # 同步与备份
 
@@ -8,7 +8,7 @@ id: sync
 
 - [x] WebDAV
 - [x] 百度网盘
-- [ ] OneDriver
+- [√] OneDriver
 
 ## 同步
 
